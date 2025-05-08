@@ -1,0 +1,21 @@
+
+module.exports=[
+    {
+        id:1,
+        name:"Sudhanshu",
+        email:"sudhanshu@.com",
+        status:"active"
+    },
+    {
+        id:2,
+        name:"Radha",
+        email:"radha@.com",
+        status:"active"
+    },
+    {
+        id:3,
+        name:"Johncena",
+        email:"johncena@.com",
+        status:"active"
+    }
+]
